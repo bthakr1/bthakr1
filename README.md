@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Data Science and Machine Learning. 
 
 
-❤️ Doing code projects to help myself and community.
+❤️ Love connecting Business to Technology and enjoy working on the intersection of everything BizzTech ...
 
 
 🌱 I’m currently learning Python (always Learning)
